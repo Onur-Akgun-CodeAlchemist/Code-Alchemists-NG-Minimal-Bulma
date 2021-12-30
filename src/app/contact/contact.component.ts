@@ -8,9 +8,11 @@ import { FormBuilder} from '@angular/forms';
       <div class="hero-body">
         <div class="container">
           <h1 class="title">📧 Contact Us 📞</h1>
-          <h2><a href="mailto:info@code-alchemists.com">📝Fill out a form or e-mail us directly 📧</a></h2>
-          <h2><a href="tel:+31651283443">Or give us a call ☎</a></h2>
-          <h2><a href="https://wa.me/+31651283443">WhatsApp 📱</a></h2>
+          <h2><a href="mailto:info@code-alchemists.com">📝Fill out a form or e-mail us directly 📧</a></h2><br>
+          <h2><a href="tel:+31651283443">Give us a call ☎</a></h2><br>
+          <h2><a href="https://wa.me/+31651283443">Message us through WhatsApp 📱</a></h2><br>
+          <h2><a href="https://telegram.me/CodeAlchemists">Message us through Telegram  📱</a></h2><br>
+          <h2><a href="https://m.me/CodeAlchemists">Hit us up on Facebook 💬</a></h2><br>
         </div>
       </div>
     </section>

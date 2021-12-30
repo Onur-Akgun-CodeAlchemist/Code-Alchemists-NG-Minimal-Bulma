@@ -8,12 +8,11 @@ import { Component, OnInit } from '@angular/core';
         <a href="https://www.code-alchemists.com">
           <img src="assets/img/Code Alchemists Mission.jpg" height="50%" width="50%">
         </a>
-        <p>Chamber of Commerce Number: 80406424 :Kamer van Koophandel Nummer</p>       
+        <p>Chamber of Commerce Number: 80406424</p>       
       </div>
     </footer>
   `,
   styles: [
-    
   ]
 })
 export class FooterComponent implements OnInit {

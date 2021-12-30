@@ -6,8 +6,9 @@ import { Component, OnInit } from '@angular/core';
     <section class="hero is-primary is-bold">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title">👨 Clients 👩</h1>
-          <p>Our clients will be listed here</p>
+          <h1 class="title">👨🤝👩 Clients 👩🤝👨  </h1>
+          <p>Our clients will be listed here soon</p>
+          <p></p>
         </div>
       </div>
     </section>

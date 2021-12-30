@@ -7,11 +7,12 @@ import { Component, OnInit } from '@angular/core';
       <div class="hero-body">
         <div class="container">
           <h1 class="title">💻 Services</h1>
-          <p>Frontend development</p>
-          <p>Backend development</p>
-          <p>Software maintenance</p>
-          <p></p>
-          <p>more services to com soon!</p>
+          <li>Frontend development</li>
+          <li>Backend development</li>
+          <li>Software maintenance</li>
+          <li>Software Quality</li>
+          <br>
+          <p>More services to come soon!</p>
         </div>
       </div>
     </section>

@@ -17,7 +17,7 @@ import { Component, OnInit } from '@angular/core';
           <a class="navbar-item" routerLink="/">🏠 Home</a>
           <a class="navbar-item" routerLink="/about">📝 About</a>
           <a class="navbar-item" routerLink="/services">💻 Services</a>
-          <a class="navbar-item" routerLink="/clients"> 🖥 Clients</a>
+          <a class="navbar-item" routerLink="/clients"> 👨🤝👩 Clients</a>
           <a class="navbar-item" routerLink="/contact">📧 Contact 📞</a>
 
           <a href="https://github.com/Onur-Akgun-CodeAlchemist/https---github.com-Onur-Akgun-CodeAlchemist-Code-Alchemists-NG-Minimal">
