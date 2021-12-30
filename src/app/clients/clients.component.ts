@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
       <div class="hero-body">
         <div class="container">
           <h1 class="title">👨 Clients 👩</h1>
+          <p>Our clients will be listed here</p>
         </div>
       </div>
     </section>
